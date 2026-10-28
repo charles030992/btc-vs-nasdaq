@@ -1,4 +1,5 @@
 # BTC vs Nasdaq
+[![CI](https://github.com/charles030992/btc-vs-nasdaq/actions/workflows/ci.yml/badge.svg)](https://github.com/charles030992/btc-vs-nasdaq/actions/workflows/ci.yml)
 
 Estado: funcional
 
