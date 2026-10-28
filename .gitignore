@@ -1,0 +1,11 @@
+# Entornos virtuales
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Salidas generadas: solo se versiona el gráfico del README
+output/*
+!output/btc_vs_qqq.png
